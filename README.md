@@ -27,7 +27,7 @@
 </ul>
 
 <h2>💻 Deploy</h2>
-<a align="center" href="https://aluraplus-eta-wine.vercel.app/" target="_blank">Alura+</a>
+<a align="center" href="https://aluraplus-eta-wine.vercel.app/">Alura+</a>
 <br>
 <p align="center"><img src="https://i.imgur.com/nKUf7MK.png" alt="Apresentação do Site Alura Plus"></p>
 
