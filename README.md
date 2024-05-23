@@ -1,5 +1,5 @@
 <h1>Alura Plus</h1>
-![Logo](https://github.com/Fabiogmf/aluraplus/assets/156916250/2a447d18-cd2b-4285-b5f1-01606ebc8021)
+https://github.com/Fabiogmf/aluraplus/assets/156916250/2a447d18-cd2b-4285-b5f1-01606ebc8021
 <p>Este repositório contém o código HTML e CSS de uma página web que promove os serviços do Alura Plus e Alura Língua. A página é responsiva e inclui diversas seções que descrevem as funcionalidades e vantagens dos serviços oferecidos.</p>
 
 <h2>Visão Geral</h2>
