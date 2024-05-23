@@ -1,5 +1,5 @@
 <h1>Alura Plus</h1>
-![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
+![Logo](https://github.com/Fabiogmf/aluraplus/assets/156916250/2a447d18-cd2b-4285-b5f1-01606ebc8021)
 <p>Este repositório contém o código HTML e CSS de uma página web que promove os serviços do Alura Plus e Alura Língua. A página é responsiva e inclui diversas seções que descrevem as funcionalidades e vantagens dos serviços oferecidos.</p>
 
 <h2>Visão Geral</h2>
@@ -29,3 +29,5 @@
 
 <h2>Deploy</h2>
 <a href="https://aluraplus-eta-wine.vercel.app/" target="_blank">Alura+</a>
+![aluraplus](https://github.com/Fabiogmf/aluraplus/assets/156916250/73ac8529-8fff-4f46-b889-257fd4210343)
+
