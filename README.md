@@ -1,5 +1,5 @@
 <h1>Alura Plus</h1>
-<img src="./assets/img/Logo.png" alt="Logo da alura plus">
+![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
 <p>Este repositório contém o código HTML e CSS de uma página web que promove os serviços do Alura Plus e Alura Língua. A página é responsiva e inclui diversas seções que descrevem as funcionalidades e vantagens dos serviços oferecidos.</p>
 
 <h2>Visão Geral</h2>
