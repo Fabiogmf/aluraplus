@@ -1,5 +1,5 @@
 <h1>Alura Plus</h1>
-<p>Este repositório contém o código HTML e CSS de uma página web que promove os serviços do Alura Plus e Alura Língua. A página é responsiva e inclui diversas seções que descrevem as funcionalidades e vantagens dos serviços oferecidos.</p>
+<p align="center">Este repositório contém o código HTML e CSS de uma página web que promove os serviços do Alura Plus e Alura Língua. A página é responsiva e inclui diversas seções que descrevem as funcionalidades e vantagens dos serviços oferecidos.</p>
 
 <h2>Visão Geral</h2>
 <p>A página web é dividida em várias seções, cada uma delas com uma função específica:</p>
@@ -19,14 +19,14 @@
 <h3>CSS</h3>
 <p>O CSS estiliza a página com cores, fontes e layout. Ele usa variáveis CSS para cores e fontes, e inclui media queries para garantir que a página seja responsiva e funcione bem em diferentes tamanhos de tela.</p>
 
-<h2>Arquivos</h2>
+<h2>📂Arquivos</h2>
 <ul>
     <li><code>index.html</code>: Contém o código HTML da página.</li>
     <li><code>assets/styles.css</code>: Contém o código CSS para estilizar a página.</li>
     <li><code>assets/img/</code>: Diretório que contém as imagens usadas na página.</li>
 </ul>
 
-<h2>Deploy</h2>
+<h2>💻Deploy</h2>
 <a href="https://aluraplus-eta-wine.vercel.app/" target="_blank">Alura+</a>
-<img src="https://i.imgur.com/nKUf7MK.png" alt="Apresentação do Site Alura Plus"> 
+<p align="center"><img src="https://i.imgur.com/nKUf7MK.png" alt="Apresentação do Site Alura Plus"></p>
 
