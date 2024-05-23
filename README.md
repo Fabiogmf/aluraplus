@@ -1,5 +1,4 @@
 <h1>Alura Plus</h1>
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplus/blob/aula04/img/Logo.png?raw=true" alt="Logo da alura plus"> </p>
 <p>Este repositório contém o código HTML e CSS de uma página web que promove os serviços do Alura Plus e Alura Língua. A página é responsiva e inclui diversas seções que descrevem as funcionalidades e vantagens dos serviços oferecidos.</p>
 
 <h2>Visão Geral</h2>
@@ -29,5 +28,5 @@
 
 <h2>Deploy</h2>
 <a href="https://aluraplus-eta-wine.vercel.app/" target="_blank">Alura+</a>
-![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
+<img src="https://i.imgur.com/nKUf7MK.png" alt="Apresentação do Site Alura Plus"> 
 
